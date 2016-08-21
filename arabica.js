@@ -1,0 +1,1 @@
+//Sebuah file untuk mengubah text menjadi arabic
